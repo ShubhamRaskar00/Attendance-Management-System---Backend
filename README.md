@@ -35,8 +35,8 @@ src/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-repo/attendance-system.git
-cd attendance-system/backend
+git clone https://github.com/ShubhamRaskar00/Attendance-Management-System---Backend.git
+cd Attendance-Management-System---Backend
 ```
 
 2. Install dependencies
